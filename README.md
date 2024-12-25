@@ -112,11 +112,11 @@ pip install tensorflow==2.12.0 transformers==4.28.1 pandas==1.5.3 numpy==1.23.5 
 ## Examples
 Here are some examples of visual outputs and results:
 - **Loss and Accuracy Plots**: Graphs showing the training progress.
-- **Model Predictions**: Examples of the model's classification outputs.
 
-You can add actual plots or screenshots here.
+
 
 ![image](https://github.com/user-attachments/assets/b94f08ab-2118-4b39-9699-53b1add62421)
+
 
 
 
