@@ -116,8 +116,9 @@ Here are some examples of visual outputs and results:
 
 You can add actual plots or screenshots here.
 
-## License
-This project is licensed under [Specify License Here].
+![image](https://github.com/user-attachments/assets/b94f08ab-2118-4b39-9699-53b1add62421)
+
+
 
 ## Contribution
 Feel free to contribute by submitting pull requests or reporting issues. For major changes, please open an issue first to discuss your ideas.
